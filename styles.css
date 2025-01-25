@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+
+body {
+    min-height: 100vh;
+    width: 100vw;
+    background-color: red;
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    background-color: green;
+    padding: 35px;
+}
+
+.pizza {
+    background-color: #f5f2d0;
+    width: 1000px;
+    height: 600px;
+    margin: 120px;
+    margin-left: 440px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px #000;
+    display: block;
+}
+
+.pizza p {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    color: red;
+}
+
+.biscoito {
+    width: 230px;
+    object-fit: cover;
+    position: absolute;
+    top: 49%;
+    left: 30%;
+    cursor: pointer;
+    transition: trasform 0.3s ease;
+}
+
+.biscoito:active {
+    transform: scale(1.20);
+}
+
+.numberCookies {
+    background: green;
+    max-width: 100%;
+    width: 140px;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #000000;
+}
+
+.btn {
+    width: 100px;
+    color: white;
+    background-color: red;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.x2 {
+    position: absolute;
+    left: 55%;
+    top: 35%;
+    font-size: 20px;
+    text-align: center;
+    background-color: green;
+    max-height: 100%;
+    height: 105px;
+    max-width: 100%;
+    width: 330px;
+    border-radius: 10px;
+    display: flex;
+    margin: 20px;
+    box-shadow: 3px 3px 3px #000;
+    padding: 13px;
+}
+
+.x3 {
+    position: absolute;
+    left: 55%;
+    top: 48%;
+    font-size: 20px;
+    text-align: center;
+    background-color: green;
+    display: flex;
+    max-height: 100%;
+    height: 105px;
+    max-width: 100%;
+    width: 330px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 3px 3px 3px #000;
+    padding: 13px;
+}
+
+.x4 {
+    position: absolute;
+    left: 55%;
+    top: 61%;
+    font-size: 20px;
+    text-align: center;
+    background-color: green;
+    max-height: 100%;
+    height: 105px;
+    max-width: 100%;
+    width: 330px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 3px 3px 3px #000;
+    display: flex;
+    padding: 13px;
+}
+
+.reset {
+    position: absolute;
+    left: 55%;
+    top: 74%;
+    font-size: 20px;
+    text-align: center;
+    background-color: green;
+    height: 105px;
+    max-height: 100%;
+    width: 330px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 3px 3px 3px #000;
+    display: flex;
+    padding: 13px;
+}
+
+
+
+
