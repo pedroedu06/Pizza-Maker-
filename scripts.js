@@ -100,6 +100,13 @@ triple.addEventListener('click', triplePower);
 click2x.addEventListener('click', doubleclickPower)
 reset.addEventListener('click', resetGame);
 
+function gorankButton() {
+    let gobutton = document.querySelector('.rankButton');
+    gobutton.addEventListener('click', ()=> {
+        window.location.href = "rank.html";
+    })
+}
+
 //cookies up 
 
 const createParticula = (x,y) =>{

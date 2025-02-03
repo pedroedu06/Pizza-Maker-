@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+}
+
+body {
+    background-color: red;
+    min-height: 100vh;
+    width: 100vw;
+    color: #fff;
+    overflow: hidden;
+    font-weight: 400;
+}
+
+header {
+    text-align: center;
+    background-color: green;
+    padding: 15px;
+}
+
+.rankButton {
+    text-align: center;
+    display: block;
+    max-width: 110px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: red;
+    color: #fff;
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px #000000;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+
+.rankPizzas {
+    background-color: #f5f2d0;
+    width: 1000px;
+    height: 600px;
+    margin: 120px;
+    margin-left: 440px;
+    border-radius: 30px;
+    box-shadow: 3px 3px 3px #000;
+    padding: 30px;
+    color: #000;
+    display: block;
+}
+
+.rankPizzas table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+.rankPizzas th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.rankPizzas input {
+    padding: 9px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.rankPizzas button {
+    padding: 9px;
+    width: 150px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.rankPizzas button:hover,
+.rankPizzas button:focus {
+    outline: none;
+    background-color: rgb(221, 42, 42);
+}
+
