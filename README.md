@@ -1,4 +1,4 @@
-#Bem vindo ao game PIZZA MAKER! 🍕🍕🍕🍕
+## Bem vindo ao game PIZZA MAKER! 🍕🍕🍕🍕
 
 - Projeto inspirado no game "Cookie Clicker", projeto desenvolvido inteiramente em JavaScript. O objetivo e criar pizzas e acumular o maximo de pontos possiveis, comprando upgrades e acelerando o processo. Pretendo colocar mais funcionalidades no futuro!
 
@@ -14,7 +14,7 @@
 - **CSS3**: Estilizacao do jogo.
 - **JavaScript**: Logica do jogo.
 
-- ## Estrutura do projeto 📂📂
+-  ## Estrutura do projeto 📂📂
 
 - **`assets/`**: Contem imagens e outras funcionalidades ultilizadas no jogo.
 - **`rank/`**:  Contem as funcionalidades ultilizadas no sistema de rank.
@@ -22,17 +22,17 @@
 - **`scripts.js`**:  Logica principal do jogo.
 - **`styles.css`**:  Estilizacao do jogo.
 
-1 - ##Como acessar o jogo 📦
+- ## Como acessar o jogo 📦
 
-- **Clone do repositorio**:
+1 - **Clone do repositorio**:
 - ```bash
    git clone https://github.com/pedroedu06/Pizza-Maker-.git
 
-2 - Navege ate o repositorio:
+2 - **Navege ate o repositorio**:
 
 -cd Pizza-Maker-
 
-3 - Abra o index.html no seu navegador e se divirta!
+3 - **Abra o index.html no seu navegador e se divirta!**
 
 - ## 📈 Próximas Implementações
 
