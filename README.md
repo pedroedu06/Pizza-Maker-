@@ -30,9 +30,13 @@
 
 2 - **Navege ate o repositorio**:
 
--cd Pizza-Maker-
+    -cd Pizza-Maker-
 
 3 - **Abra o index.html no seu navegador e se divirta!**
+
+Ou
+
+- Clique no link!
 
 - ## 📈 Próximas Implementações
 
